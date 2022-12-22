@@ -1,6 +1,7 @@
 {
   "name": "blizzard",
   "version": "0.1.0",
+  "homepage": "https://maplestorykid.github.io/TFT/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -29,13 +30,12 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build", 
-    "deploy": "gh-pages -d build" ,
+    "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
 
   },
-  "homepage": "https://maplestorykid.github.io/TFT/",
   "eslintConfig": {
     "extends": [
       "react-app",
