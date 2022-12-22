@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/TFT/static/js/main.382ade70.js",
-    "static/media/layer-2.png": "/TFT/static/media/layer-2.43fa8a16fcfa70081153.png",
-    "static/media/hauntling.png": "/TFT/static/media/hauntling.911d5150e7f318fb66b1.png",
-    "static/media/upper.png": "/TFT/static/media/upper.399a08c3054584e7341a.png",
-    "static/media/lower.png": "/TFT/static/media/lower.506e334b079704d70c94.png",
-    "static/media/hushtail.png": "/TFT/static/media/hushtail.baffb4131dab2936cfbf.png",
-    "static/media/furyhorn.png": "/TFT/static/media/furyhorn.b836713580d6053051e4.png",
-    "static/media/layer-background.png": "/TFT/static/media/layer-background.892aa32da79600e3ba8b.png",
-    "static/media/portal.png": "/TFT/static/media/portal.88400912084d4ee4fcca.png",
-    "static/media/tft-set-8-meta-image.jpg": "/TFT/static/media/tft-set-8-meta-image.46c14fa8847019bc5ae3.jpg",
-    "static/media/pengu.png": "/TFT/static/media/pengu.8aa91cc5f5153ba029cb.png",
-    "static/media/layer-3.png": "/TFT/static/media/layer-3.231f2e23de774a8d64f9.png",
-    "static/media/riot-games-log-white.png": "/TFT/static/media/riot-games-log-white.6003d82cc2ed1774c699.png",
-    "static/media/bannerFrame.png": "/TFT/static/media/bannerFrame.bd0bc417c7d3234933a2.png",
-    "static/media/kr-rating.png": "/TFT/static/media/kr-rating.c20c22f4d2d0d300ed39.png",
-    "static/media/newsImg1.jpg": "/TFT/static/media/newsImg1.4a379b7781561e0635be.jpg",
-    "static/media/riotLogo.png": "/TFT/static/media/riotLogo.b53c4396ae0f0a5b8bad.png",
-    "static/media/newsImg3.jpg": "/TFT/static/media/newsImg3.3a5bcf7ed3da4b2e6113.jpg",
-    "index.html": "/TFT/index.html",
-    "main.382ade70.js.map": "/TFT/static/js/main.382ade70.js.map"
+    "main.js": "/Blizzard/static/js/main.238504f1.js",
+    "static/media/layer-2.png": "/Blizzard/static/media/layer-2.43fa8a16fcfa70081153.png",
+    "static/media/hauntling.png": "/Blizzard/static/media/hauntling.911d5150e7f318fb66b1.png",
+    "static/media/upper.png": "/Blizzard/static/media/upper.399a08c3054584e7341a.png",
+    "static/media/lower.png": "/Blizzard/static/media/lower.506e334b079704d70c94.png",
+    "static/media/hushtail.png": "/Blizzard/static/media/hushtail.baffb4131dab2936cfbf.png",
+    "static/media/furyhorn.png": "/Blizzard/static/media/furyhorn.b836713580d6053051e4.png",
+    "static/media/layer-background.png": "/Blizzard/static/media/layer-background.892aa32da79600e3ba8b.png",
+    "static/media/portal.png": "/Blizzard/static/media/portal.88400912084d4ee4fcca.png",
+    "static/media/tft-set-8-meta-image.jpg": "/Blizzard/static/media/tft-set-8-meta-image.46c14fa8847019bc5ae3.jpg",
+    "static/media/pengu.png": "/Blizzard/static/media/pengu.8aa91cc5f5153ba029cb.png",
+    "static/media/layer-3.png": "/Blizzard/static/media/layer-3.231f2e23de774a8d64f9.png",
+    "static/media/riot-games-log-white.png": "/Blizzard/static/media/riot-games-log-white.6003d82cc2ed1774c699.png",
+    "static/media/bannerFrame.png": "/Blizzard/static/media/bannerFrame.bd0bc417c7d3234933a2.png",
+    "static/media/kr-rating.png": "/Blizzard/static/media/kr-rating.c20c22f4d2d0d300ed39.png",
+    "static/media/newsImg1.jpg": "/Blizzard/static/media/newsImg1.4a379b7781561e0635be.jpg",
+    "static/media/riotLogo.png": "/Blizzard/static/media/riotLogo.b53c4396ae0f0a5b8bad.png",
+    "static/media/newsImg3.jpg": "/Blizzard/static/media/newsImg3.3a5bcf7ed3da4b2e6113.jpg",
+    "index.html": "/Blizzard/index.html",
+    "main.238504f1.js.map": "/Blizzard/static/js/main.238504f1.js.map"
   },
   "entrypoints": [
-    "static/js/main.382ade70.js"
+    "static/js/main.238504f1.js"
   ]
 }
